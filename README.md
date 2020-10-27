@@ -1,2 +1,2 @@
 # Portfolio Online
- Aplicando Html, Css, JavaScript
+ Aplicando Html, Css e JavaScript
